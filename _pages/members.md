@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Interpretive Data Science - IDeaS"
+excerpt: "Members"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /members/
+  - /members.html
 ---
 
 Getting started
