@@ -8,15 +8,8 @@ redirect_from:
   - /members.html
 ---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The IDeaS group is an emerging working group, coming out of a collaboration between the University of Alberta and University of British Columbia. Amongst others, we offer workshops that provides management doctoral students and faculty members working in the areas of data science, data analysis, Big Data, and artificial intelligence an opportunity to discuss and advance their ongoing research. Distinctively, we aim to draw together three interrelated topics that are more normally studied in separate scholarly communities:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- The reflexive and theoretically informed use of new data analytic techniques in the social sciences that leverage sophisticated algorithms such as topic modeling, natural language processing, and other forms of machine learning.
+- The everyday work of data analysts in organizations – how they construct knowledge practices, and the epistemic infrastructures of organizations; both as an interesting ethnographic and qualitative topic in its own right, and as a means of encouraging our own reflexivity.
+- The societal, social, and cultural transformations attending the rise of data and analytics including changing forms and interpretations of privacy and governmentality – to which social scientists should be able to speak.
