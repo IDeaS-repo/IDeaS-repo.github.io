@@ -1,12 +1,10 @@
 ---
 permalink: /members/
-title: "Interpretive Data Science - IDeaS"
+title: "IDeaS Members (in alphabetical order)"
 excerpt: "Members"
 redirect_from: 
   - /members.html
 ---
-
-Members (in alphabetical order):
 
 | Member  | Information |
 | ------------- | ------------- |
