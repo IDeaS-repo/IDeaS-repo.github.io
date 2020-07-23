@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Interpretive Data Science - IDeaS"
+title: "About IDeaS"
 excerpt: "About IDeaS"
 author_profile: true
 redirect_from: 
