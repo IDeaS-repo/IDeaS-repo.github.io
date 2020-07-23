@@ -1,8 +1,7 @@
 ---
-permalink: /
+permalink: /members/
 title: "Interpretive Data Science - IDeaS"
 excerpt: "Members"
-author_profile: true
 redirect_from: 
   - /members/
   - /members.html
