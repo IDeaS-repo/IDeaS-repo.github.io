@@ -3,7 +3,6 @@ permalink: /members/
 title: "Interpretive Data Science - IDeaS"
 excerpt: "Members"
 redirect_from: 
-  - /members/
   - /members.html
 ---
 
