@@ -1,10 +1,24 @@
 # main links links
 main:
-  - title: "Workshops"
+  - title: "2020 PDW"
+    url: /workshops/2020/   
+    
+  - title: "Workshops / PDWs"
     url: /workshops/
-
-  - title: "About"
-    url: /about/    
+    subfolderitems:
+      - Title: "About the workshops"
+        url: /workshops/howto/
+      - Title: "2017 PDW"
+        url: /workshops/2017/
+      - Title: "2018 PDW"
+        url: /workshops/2018/
+      - Title: "2019 Workshop"
+        url: /workshops/2019/
+      - Title: "2020 PDW"
+        url: /workshops/2020/
 
   - title: "Members"
     url: /members/    
+
+  - title: "Publications"
+    url: /publications/  
