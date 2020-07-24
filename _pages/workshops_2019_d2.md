@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Day 2"
-permalink: /workshops/2019_day2
+permalink: /workshops/2019/day2
 author_profile: true
 ---
 *(Reflections from Bandita Deka Kalita*  
