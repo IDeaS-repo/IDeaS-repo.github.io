@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "2019 Workshop at the University of Alberta"
+permalink: /workshops/2019/
+author_profile: true
+---
+
+Description of workshop
+
+[<b>Day 1 (reflections from Bandita Deka Kalita)](/workshops/2019/day1)
+[<b>Day 2 (reflections from Bandita Deka Kalita)](/workshops/2019/day2)
+
+[<b>Session 1:</b> Interpretive data science: Rendering meaning ‘in the wild’ (reflections from Stefanie Habersang)](/workshops/2019/session1)
+[<b>Session 2:</b> Publishing papers with computational methods (reflections from Stefanie Habersang)](/workshops/2019/session2)
+[<b>Session 3:</b> Meaning and interpretation: Is big data any different than small data? (reflections from Stefanie Habersang)](/workshops/2019/session3)
+[<b>Session 4:</b> What happens when we govern with numbers? (reflections from Stefanie Habersang)](/workshops/2019/session4)
+[<b>Session 5:</b> The politics of big data (reflections from Stefanie Habersang)](/workshops/2019/session5)
+[<b>Session 6:</b> HIBAR Research – Exploring how research can make a difference in the real world (reflections from Stefanie Habersang)](/workshops/2019/session6)
+
