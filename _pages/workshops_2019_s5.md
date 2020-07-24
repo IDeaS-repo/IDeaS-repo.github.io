@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Session 5: The politics of big data"
-permalink: /workshops/2019_session5
+permalink: /workshops/2019/session5
 author_profile: true
 ---
 *(Reflections from Stefanie Habersang)*  
