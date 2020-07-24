@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Topic Modeling Workshops"
+title: "Workshops and PDWs"
 permalink: /workshops/
 author_profile: true
 ---
