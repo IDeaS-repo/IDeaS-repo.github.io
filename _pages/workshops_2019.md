@@ -7,7 +7,7 @@ author_profile: true
 
 Description of workshop
 
-<b>Day 1 </b>(click [here](/workshops/2019/day1) for a summary.  
+<b>Day 1 </b>([summary](/workshops/2019/day1)).  
 ------
 <b>Session 1:</b>[ Interpretive data science: Rendering meaning ‘in the wild’](/workshops/2019/session1)  
 <b>Session 2:</b>[ Publishing papers with computational methods](/workshops/2019/session2)  
@@ -15,7 +15,7 @@ Description of workshop
   
   
   
-<b>Day 2 </b>(click [here](/workshops/2019/day2) for a summary.  
+<b>Day 2 </b>([summary](/workshops/2019/day2)).  
 ------
 <b>Session 4:</b>[ What happens when we govern with numbers?](/workshops/2019/session4)  
 <b>Session 5:</b>[ The politics of big data](/workshops/2019/session5)  
