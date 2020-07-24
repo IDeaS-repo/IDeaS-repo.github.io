@@ -4,7 +4,7 @@ title: "Day 1"
 permalink: /workshops/2019/day1
 author_profile: true
 ---
-*(Reflections from Bandita Deka Kalita*  
+*(Reflections from Bandita Deka Kalita)*  
   
 Kyle Murray and Dev Jennings flagged off Day 1 of the IDeaS conference by talking about how big data can transform organizations and how it can be interpreted. On the topic of interpreting big data, Dev emphasized a theme that resonated throughout the two days of the conference – that rendering corpora is inherently interpretive in nature. He then invited Laura Nelson, and Tim Hannigan, to share insights from their respective projects.
 
