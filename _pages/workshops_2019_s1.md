@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "<b>Session 1:</b> Interpretive data science: Rendering meaning ‘in the wild’"
-permalink: /workshops/2019_session1
+permalink: /workshops/2019/session1
 author_profile: true
 ---
 *(Reflections from Stefanie Habersang)*  
