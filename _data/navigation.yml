@@ -6,16 +6,16 @@ main:
   - title: "Workshops / PDWs"
     url: /workshops/
     subcategories:
-      - Title: "About the workshops"
-        url: /workshops/howto/
-      - Title: "2017 PDW"
-        url: /workshops/2017/
-      - Title: "2018 PDW"
-        url: /workshops/2018/
-      - Title: "2019 Workshop"
-        url: /workshops/2019/
-      - Title: "2020 PDW"
-        url: /workshops/2020/
+      - subtitle: "About the workshops"
+        subhref: /workshops/howto/
+      - subtitle: "2017 PDW"
+        subhref: /workshops/2017/
+      - subtitle: "2018 PDW"
+        subhref: /workshops/2018/
+      - subtitle: "2019 Workshop"
+        subhref: /workshops/2019/
+      - subtitle: "2020 PDW"
+        subhref: /workshops/2020/
 
   - title: "Members"
     url: /members/    
