@@ -4,7 +4,7 @@ title: "Day 2"
 permalink: /workshops/2019/day2
 author_profile: true
 ---
-*(Reflections from Bandita Deka Kalita*  
+*(Reflections from Bandita Deka Kalita)*  
   
 The second day of the conference started with an address by Trish Reay, who made a poignant reference to the different history of big data usage by the First Nations of Canada, as she continued with thought strands about marginalized contexts from the first day. She introduced keynote speaker Wendy Espeland who delivered a fascinating talk on “Governance by Numbers”. She spoke about the increasing pressure to code meanings and value in terms of numbers, in the context of university ranking systems. The association of desired traits with measurement and quantification has implications for meaning, and hence for governance systems, and Wendy’s work investigates into matters of rationality and inclusion arising from these implications. She described some of her work with governance issues in the Yavapai community, and associated matters of power, and accountability.
 
