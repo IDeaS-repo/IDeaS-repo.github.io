@@ -13,7 +13,8 @@ Description of workshop
 <b>Session 2:</b>[ Publishing papers with computational methods](/workshops/2019/session2)  
 <b>Session 3:</b>[ Meaning and interpretation: Is big data any different than small data?](/workshops/2019/session3)  
   
-### b>Day 2 </b>(click [here](/workshops/2019/day2) for a summary.  
+  
+### <b>Day 2 </b>(click [here](/workshops/2019/day2) for a summary.  
 ---
 <b>Session 4:</b>[ What happens when we govern with numbers?](/workshops/2019/session4)  
 <b>Session 5:</b>[ The politics of big data](/workshops/2019/session5)  
