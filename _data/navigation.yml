@@ -5,7 +5,7 @@ main:
     
   - title: "Workshops / PDWs"
     url: /workshops/
-    subfolderitems:
+    subcategories:
       - Title: "About the workshops"
         url: /workshops/howto/
       - Title: "2017 PDW"
