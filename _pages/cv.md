@@ -73,6 +73,6 @@ Annual Meeting)
 * <b>2018:</b> Panelist for PDW Optimal Distinctiveness: Past Approaches, Theoretical Integration and Future Research Agenda at Academy of Management Annual Meeting (Chicago)
 * <b>2017:</b> Co-organizer of PDW Topic Modeling in Quant and Qual Research: A Hands-On Approach at Academy of Management Annual Meeting (Atlanta)
 * <b>2015 – 2018:</b> Social Media Editor for Cross Cultural & Strategic Management
-* Ad-hoc Reviewer for (in alphabetical order), the British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Organization Science, Research in the Sociology of Organizations, Social Forces, Strategic Management Journal, Strategy Science.
+* Ad-hoc Reviewer for (in alphabetical order), the British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Organization Science, Research in the Sociology of Organizations, Social Forces, Strategic Management Journal, Strategic Organization, Strategy Science.
 * Reviewer for Academy of Management Annual Meeting (ENT division, 2015, 2016, 2017; BPS division, 2016, 2019, 2020; OMT division, 2017, 2018, 2019, 2020), the Strategic Management Society Annual Meeting (2020) and the Strategic Management Society Special Conference (2018).
 
